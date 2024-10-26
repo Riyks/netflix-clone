@@ -2,7 +2,7 @@ import { useEffect,useRef, useState } from "react";
 import { useParams } from "react-router-dom"
 import { useContentStore } from "../store/content";
 import axios from "axios";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 import { Link } from "react-router-dom";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import ReactPlayer from "react-player";
