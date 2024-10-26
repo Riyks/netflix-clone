@@ -1,4 +1,4 @@
-import Navbar from "../../components/navbar"
+import Navbar from "../../components/Navbar"
 import { Link } from "react-router-dom"
 import { Info, Play } from "lucide-react"
 import useGetTrendingContent from "../../hooks/useGetTrendingContent"
