@@ -1,7 +1,7 @@
 // import React from 'react'
 
 import { useAuthStore } from "../../store/authUser";
-import Authscreen from "./Authscreen";
+import Authscreen from "./AuthScreen";
 import HomeScreen from "./HomeScreen";
 
 const HomePage = () => {
